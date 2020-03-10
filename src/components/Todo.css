@@ -1,0 +1,23 @@
+#root {
+    background-color: lightgreen;
+    height: 100vh;
+}
+.title {
+    text-align: center;;
+    color: white;
+    font-size: 40px;
+}
+.each.completed {   
+    text-decoration: line-through;    
+}
+
+.forms {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.each {
+    text-align: center;
+    color: white;
+}
